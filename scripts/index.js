@@ -1,2 +1,2 @@
 import './database';
-import './test';
+import './test/test';
