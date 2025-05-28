@@ -13,4 +13,4 @@ This project is licensed under the MIT License – see the [LICENSE](./LICENSE) 
 - Persistent across game sessions
 - Type-safe (with TypeScript generics)
 - Built-in methods similar to `Map`
-[JS EXAMPLE USAGE](./scripts/test/test.js)
+[JS EXAMPLE USAGE](./scripts/test.js)
