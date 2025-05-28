@@ -1,6 +1,7 @@
 # DatabaseMap
 
-A lightweight persistent key-value map for Minecraft Bedrock Scripting, using Dynamic Properties under the hood.
+Hello, Here's a simple lightweight persistent key-value map for Minecraft Bedrock Scripting, using Dynamic Properties under the hood.
+I hope you like it ✨
 
 ## 📄 License
 
@@ -12,3 +13,4 @@ This project is licensed under the MIT License – see the [LICENSE](./LICENSE) 
 - Persistent across game sessions
 - Type-safe (with TypeScript generics)
 - Built-in methods similar to `Map`
+[JS EXAMPLE USAGE](./scripts/test/test.js)
