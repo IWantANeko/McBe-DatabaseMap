@@ -1,0 +1,45 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "A simple Database Map for Minecraft Bedrock",
+        "name": "Database Map",
+        "uuid": "6c0c9118-82e3-4e88-b19b-c57d791785d1",
+        "version": [
+            1,
+            0,
+            0
+        ],
+        "min_engine_version": [
+            1,
+            20,
+            0
+        ]
+    },
+    "modules": [
+        {
+            "type": "data",
+            "uuid": "48c195d5-09ad-4a87-a161-f3cfc21d587c",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        },
+        {
+            "type": "script",
+            "uuid": "886ffbbc-bb91-4505-b5ee-70e531b25481",
+            "version": [
+                1,
+                0,
+                0
+            ],
+            "entry": "scripts/index.js"
+        }
+    ],
+    "dependencies": [
+        {
+            "module_name": "@minecraft/server",
+            "version": "1.19.0"
+        }
+    ]
+}

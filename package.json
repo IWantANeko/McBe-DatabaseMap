@@ -1,0 +1,22 @@
+{
+  "name": "mcbe-databasemap",
+  "version": "1.0.0",
+  "description": "A Simple McBe Map database",
+  "keywords": [
+    "mcbe",
+    "minecraft",
+    "bedrock",
+    "database"
+  ],
+  "license": "ISC",
+  "author": "IWantANeko",
+  "type": "commonjs",
+  "main": "scripts/index.js",
+  "types": "scripts/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@minecraft/server": "^1.19.0"
+  }
+}
