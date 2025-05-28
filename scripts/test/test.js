@@ -1,4 +1,4 @@
-import DatabaseMap from "./index.js";
+import DatabaseMap from "../index.js";
 
 // Create a new database instance
 const db = new DatabaseMap<string>("test");
