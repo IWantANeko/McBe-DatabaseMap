@@ -1,7 +1,7 @@
 # Example Usage
 
-```js
-const db = new DatabaseMap<string>("myDatabase");
+```ts
+const db = new DatabaseMap("myDatabase");
 
 // Set values
 db.set("player1", "Steve");

@@ -1,7 +1,7 @@
-import DatabaseMap from "./index.js";
+import DatabaseMap from "../database.js";
 
 // Create a new database instance
-const db = new DatabaseMap<string>("test");
+const db = new DatabaseMap("test");
 
 // Set values
 db.set("player1", "Steve");
